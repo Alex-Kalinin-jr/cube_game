@@ -10,3 +10,11 @@ Just launch in terminal new game by:<br>
 
 Breadth first search (BFS) is used as main algorithms function. **Do not try to increase it**.
 
+<div align="center">
+<img src="Resources/1.png" width="400"/>
+</div>
+
+<div align="center">
+<img src="Resources/2.png" width="400"/>
+</div>
+
